@@ -672,6 +672,7 @@ id activity_chooser_view_content
 id add
 id alertTitle
 id all
+id allTasksBtn
 id always
 id async
 id barrier
@@ -763,6 +764,7 @@ id showCustom
 id showHome
 id showTitle
 id spacer
+id spinner
 id split_action_bar
 id spread
 id spread_inside
@@ -782,10 +784,12 @@ id text
 id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
+id thisWeekBtn
 id time
 id title
 id titleDividerNoCustom
 id title_template
+id todayBtn
 id top
 id topPanel
 id txtDate
